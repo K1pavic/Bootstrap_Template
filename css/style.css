@@ -1,0 +1,55 @@
+.navbar-brand {
+	font-size: 1.8em;
+}
+
+#topContainer {
+	background-image: url("../images/background.jpg");
+	width: 100%;
+	background-size: cover;
+	background-position: center;
+}
+
+#topContent {
+	margin-top: 100px;
+	text-align: center;
+	color: #f3f3f3;
+}
+
+#topContent h1 {
+	font-size: 300%;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.buttonSubmit {
+	margin-top: 30px;
+	clear: both;
+}
+
+.marginTop {
+	margin-top: 30px;
+}
+
+.center {
+	text-align: center;
+}
+
+.title {
+	margin-top: 100px;
+	font-size: 300%;
+}
+
+#footer {
+	background-color: #B0D1FB;
+	padding-top: 70px;
+}
+
+.marginBottom {
+	margin-bottom: 30px;
+}
+
+.appStore {
+	width: 250px;
+}
